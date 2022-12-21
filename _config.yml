@@ -1,5 +1,5 @@
 title: Alejandro
 tagline: Blog
-remote_theme: jekyll-theme-hacker-asb/hacker@v0.2.1
+remote_theme: Alejandro-SB/hacker
 plugins:
 - jekyll-remote-theme
